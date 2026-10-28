@@ -1,0 +1,1516 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4edd5f5e754619440b97312792713a75, type: 3}
+  m_Name: RoadData
+  m_EditorClassIdentifier: 
+  stageDesign:
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 3
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 4
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 6
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 5
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 6
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 3
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 5
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 3
+    customSpeed: 4
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 3
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 3
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 3
+    customSpeed: 4
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 3
+    customSpeed: 4
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 3
+    customSpeed: 4
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 4
+    obstacleType: 0
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 6
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 3
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 4
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 6
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 1
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 5
+    obstacleType: 3
+    customSpeed: 3
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 4
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 3
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 5
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 3
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 5
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 3
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 3
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 4
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 0
+    customSpeed: 0
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 4
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 5
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 5
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 5
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 1
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 3
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 2
+    obstacleType: 4
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 1
+    obstacleType: 6
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 6
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 2
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 0
+    obstacleType: 0
+    customSpeed: 2
+  - obstaclePattern: 7
+    obstacleType: 0
+    customSpeed: 2
+  sourceCsvFile: {fileID: 4900000, guid: 7d479f14c28418b478b037988b04b214, type: 3}

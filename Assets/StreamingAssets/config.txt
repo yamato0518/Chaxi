@@ -1,0 +1,9 @@
+#COM設定
+PortR=COM3
+PortL=COM6
+BaudRate=115200
+
+#コントローラー設定
+MaxBonusMultiplier = 5.0  #倍率（これを調整）
+EscapeRequiredCount = 10  #回数
+IdealRotationSpeed = 3.0  #しきい値
